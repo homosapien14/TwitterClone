@@ -1,0 +1,22 @@
+{
+  "name": "twitterclone",
+  "version": "1.0.0",
+  "description": "twitter clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homosapien14/TwitterClone.git"
+  },
+  "author": "swapnil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/homosapien14/TwitterClone/issues"
+  },
+  "homepage": "https://github.com/homosapien14/TwitterClone#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
